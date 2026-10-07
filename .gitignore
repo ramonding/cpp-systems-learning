@@ -1,0 +1,14 @@
+build/
+out/
+.vs/
+.idea/
+.tools/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+.env
+.env.*
+!.env.example
